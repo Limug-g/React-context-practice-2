@@ -1,5 +1,5 @@
-import { UserMenu } from "../UserMenu";
-import styles from "./Header.module.css";
+import { UserMenu } from '../UserMenu';
+import styles from './Header.module.css';
 
 export function Header() {
   return (
